@@ -12,7 +12,7 @@ This project is a business website for a company specializing in generator parts
 - **Admin Dashboard**: Admin interface to manage products, inquiries, and customer accounts.
 
 ## GM Motors Website Preview
-
+https://github.com/Paramhans-Singh/Business-Website/assets/101575816/0617d4e1-de6f-4adb-ac08-c0660bbc6c1e
 
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
@@ -54,3 +54,8 @@ We welcome contributions to improve the website. Please follow these steps:
 4. Commit your changes.
 5. Push to the branch.
 6. Open a pull request.
+
+## Contact
+For any inquiries or issues, please contact:
+- **Email**: paramhanssingh084@gmail.com
+- **GitHub**: [paramhanssingh](https://github.com/Paramhans-Singh)
